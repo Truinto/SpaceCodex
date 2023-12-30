@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceCodex", "SpaceCodex\SpaceCodex.csproj", "{B0E81605-F207-4E80-B3E7-81D7199AB3A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityMod", "@Shared\UnityMod\UnityMod.csproj", "{ABEB5E79-5BC2-492C-BA24-C987DFEA920E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E81605-F207-4E80-B3E7-81D7199AB3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E81605-F207-4E80-B3E7-81D7199AB3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E81605-F207-4E80-B3E7-81D7199AB3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E81605-F207-4E80-B3E7-81D7199AB3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABEB5E79-5BC2-492C-BA24-C987DFEA920E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEB5E79-5BC2-492C-BA24-C987DFEA920E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ABEB5E79-5BC2-492C-BA24-C987DFEA920E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEB5E79-5BC2-492C-BA24-C987DFEA920E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85820306-04AC-4E8D-A0C0-484A2129C65A}
+	EndGlobalSection
+EndGlobal

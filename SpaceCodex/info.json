@@ -1,0 +1,14 @@
+{
+    "AssemblyName": "SpaceCodex.dll",
+    "Author": "Truinto",
+    "DisplayName": "Space Codex",
+    "EntryMethod": "SpaceCodex.Main.Load",
+    "Version": "1.0.0",
+    "GameVersion": "1.0.0",
+    "HomePage": "https://github.com/Truinto/",
+    "Id": "SpaceCodex",
+    "ManagerVersion": "0.25.0",
+    "Repository": "",
+    "Requirements": [],
+    "LoadAfter": []
+}

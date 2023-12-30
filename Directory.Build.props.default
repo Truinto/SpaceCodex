@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+	<PropertyGroup>
+		<Zip7>C:\Program Files\7-Zip\7z.exe</Zip7>
+		<ProgramFolder>C:\Program Files (x86)\Steam\steamapps\common</ProgramFolder>
+		<GameManaged>$(ProgramFolder)\Warhammer 40,000 Rogue Trader\WH40KRT_Data\Managed</GameManaged>
+		<ModFolder>$([System.Environment]::GetFolderPath(SpecialFolder.ApplicationData))\..\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager</ModFolder>
+		<!-- <Lib>$(GameManaged)</Lib> -->
+	</PropertyGroup>
+</Project>

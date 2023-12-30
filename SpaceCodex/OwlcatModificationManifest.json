@@ -1,0 +1,12 @@
+{
+    "UniqueName": "SpaceCodex",
+    "Version": "1.0.0",
+    "DisplayName": "Space Codex",
+    "Description": "Truinto's little project.",
+    "Author": "Truinto",
+    "ImageName": "SpaceCodex.png",
+    "WorkshopId": "000000",
+    "Repository": "",
+    "HomePage": "https://github.com/Truinto/",
+    "Dependencies": []
+}
